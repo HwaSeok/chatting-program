@@ -1,6 +1,6 @@
 package 채팅프로그램_symmetric;
 
-public class Symmetric_Key {
+public class Symmetric_Key { 
 	
 	public String Encrypt(String text,int key){
 		char[] temp = text.toCharArray();
