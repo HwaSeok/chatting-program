@@ -1,4 +1,4 @@
-package Ã¤ÆÃÇÁ·Î±×·¥_symmetric;
+package ì±„íŒ…í”„ë¡œê·¸ë¨_symmetric;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
@@ -26,7 +26,7 @@ public class ServerGUI extends JFrame implements ActionListener{
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setVisible(true);
         setBounds(200, 100, 400, 600);
-        setTitle("¼­¹öºÎºĞ");
+        setTitle("Â¼Â­Â¹Ã¶ÂºÃÂºÃ");
         server.setGui(this);
         server.setting();
     }
