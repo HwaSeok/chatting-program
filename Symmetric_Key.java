@@ -1,4 +1,4 @@
-package Ã¤ÆÃÇÁ·Î±×·¥_symmetric;
+package ì±„íŒ…í”„ë¡œê·¸ëž¨_symmetric;
 
 public class Symmetric_Key {
 	
